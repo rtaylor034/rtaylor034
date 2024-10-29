@@ -11,3 +11,24 @@
       =     \\\________________/ (this.World, DateTime.Now);
 
 ```
+```
+/rtaylor034> open about.toml
+╭──────────┬────────────────────────────────────╮
+│ alias    │ gfunction                          │
+│          │ ╭───────┬────────╮                 │
+│ name     │ │ first │ ryan   │                 │
+│          │ │ last  │ taylor │                 │
+│          │ ╰───────┴────────╯                 │
+│          │ ╭───────────┬────────────────────╮ │
+│ accounts │ │           │ ╭───┬────────────╮ │ │
+│          │ │ github    │ │ 0 │ rtaylor034 │ │ │
+│          │ │           │ │ 1 │ sixslime   │ │ │
+│          │ │           │ ╰───┴────────────╯ │ │
+│          │ │ discord   │ gfunction          │ │
+│          │ │ minecraft │ SixSlime           │ │
+│          │ │ tryhackme │ ryan.mm.taylor     │ │
+│          │ │ riot_id   │ Command Block#137  │ │
+│          │ ╰───────────┴────────────────────╯ │
+╰──────────┴────────────────────────────────────╯
+/rtaylor034> exit
+```
