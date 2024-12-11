@@ -12,11 +12,6 @@
 
 ```
 ```
-/rtaylor034> ls | get name
-╭───┬───────────╮
-│ 0 │ README.md │
-│ 1 │ id.toml   │
-╰───┴───────────╯
 /rtaylor034> open id.toml
 ╭──────────┬────────────────────────────────────╮
 │ alias    │ gfunction                          │
