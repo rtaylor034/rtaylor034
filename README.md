@@ -12,7 +12,7 @@
 
 ```
 ```
-/rtaylor034> open about.toml
+/rtaylor034> open id.toml
 ╭──────────┬────────────────────────────────────╮
 │ alias    │ gfunction                          │
 │          │ ╭───────┬────────╮                 │
@@ -24,9 +24,9 @@
 │          │ │ github    │ │ 0 │ rtaylor034 │ │ │
 │          │ │           │ │ 1 │ sixslime   │ │ │
 │          │ │           │ ╰───┴────────────╯ │ │
+│          │ │ linkedin  │ rtaylor034         │ │
 │          │ │ discord   │ gfunction          │ │
 │          │ │ minecraft │ SixSlime           │ │
-│          │ │ tryhackme │ ryan.mm.taylor     │ │
 │          │ │ riot_id   │ Command Block#137  │ │
 │          │ ╰───────────┴────────────────────╯ │
 ╰──────────┴────────────────────────────────────╯

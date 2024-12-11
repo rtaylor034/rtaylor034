@@ -1,13 +1,12 @@
 
 alias = "gfunction"
-
 [name]
 first = "ryan"
 last = "taylor"
 
 [accounts]
 github = ["rtaylor034", "sixslime"]
+linkedin = "rtaylor034"
 discord = "gfunction"
 minecraft = "SixSlime"
-tryhackme = "ryan.mm.taylor"
 riot_id = "Command Block#137"
