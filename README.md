@@ -12,6 +12,7 @@
 
 ```
 ```
+/rtaylor034$ nu
 /rtaylor034> open id.toml
 ╭──────────┬────────────────────────────────────╮
 │ alias    │ gfunction                          │
